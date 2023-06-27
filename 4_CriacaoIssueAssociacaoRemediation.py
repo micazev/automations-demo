@@ -35,7 +35,7 @@ table_create_issue['User Name (Security assignment)']
 # Abrir Navegador
 PATH = 'C:\Program Files (x86)\chromedriver.exe'
 nav = webdriver.Chrome(PATH)
-nav.get('https://fa-eueu-dev1-saasfaprod1.fa.ocs.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=7pv5r1sdr_5&fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&_afrLoop=4691137915934643')
+nav.get('https://...')
 print(nav.title)
 
 
